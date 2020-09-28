@@ -62,7 +62,6 @@ rencode==1.0.6
 reportlab==3.5.34
 requests==2.22.0
 requests-unixsocket==0.2.0
-screen-resolution-extra==0.0.0
 SecretStorage==2.3.1
 service-identity==18.1.0
 setproctitle==1.1.10
