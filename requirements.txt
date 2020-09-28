@@ -70,7 +70,6 @@ six==1.14.0
 sqlparse==0.3.1
 systemd-python==234
 Twisted==18.9.0
-unattended-upgrades==0.1
 urllib3==1.25.8
 usb-creator==0.3.7
 uWSGI==2.0.19.1
