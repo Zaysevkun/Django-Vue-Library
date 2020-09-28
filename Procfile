@@ -1,0 +1,1 @@
+web: uwsgi djangoCRUD_uwsgi.ini

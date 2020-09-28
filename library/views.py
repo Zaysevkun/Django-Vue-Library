@@ -16,7 +16,7 @@ def current_datetime(request):
 
 
 class AuthorsViewSet(viewsets.ModelViewSet):
-    queryset = Author.objects.all()
+    queryset = Author.objects.all().order_by('-name')
     serializer_class = AuthorSerializer
     permission_classes = [permissions.IsAuthenticated]
 
